@@ -1,3 +1,5 @@
+Cloned from Gnosis safe for testing transfer of ERC20 tokens.
+
 Safe Modules
 ===================
 
